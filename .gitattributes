@@ -1,1 +1,2 @@
+*.pbix filter=lfs diff=lfs merge=lfs -text
 Big[[:space:]]data[[:space:]]project[[:space:]]dash[[:space:]]board.pbix filter=lfs diff=lfs merge=lfs -text
